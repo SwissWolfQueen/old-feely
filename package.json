@@ -1,0 +1,34 @@
+{
+  "name": "cours-es6-training",
+  "version": "0.0.1",
+  "description": "<!-- @Author: Nicolas Fazio <webmaster-fazio> @Date:   01-09-2016 @Email:  contact@nicolasfazio.ch @Last modified by:   webmaster-fazio @Last modified time: 15-09-2016 -->",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FazioNico/cours-es6.git"
+  },
+  "author": "Nicolas Fazio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FazioNico/cours-es6/issues"
+  },
+  "homepage": "https://github.com/FazioNico/cours-es6#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.16.0",
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-remove-html-comments": "^1.0.1",
+    "gulp-util": "^3.0.7",
+    "vinyl-source-stream": "^1.1.0",
+    "vinyl-transform": "^1.0.0"
+  },
+  "dependencies": {
+    "firebase": "^3.6.9"
+  }
+}
